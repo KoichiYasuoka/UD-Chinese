@@ -28,7 +28,8 @@ setuptools.setup(
     "Programming Language :: Python :: 3",
     "Operating System :: OS Independent",
     "Topic :: Text Processing :: Linguistic",
-    "Natural Language :: Chinese",
+    "Natural Language :: Chinese (Simplified)",
+    "Natural Language :: Chinese (Traditional)",
   ],
   project_urls={
     "Source":URL,
