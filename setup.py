@@ -2,6 +2,8 @@
 # coding=utf-8
 
 import setuptools
+with open("README.md","r",encoding="UTF-8") as r:
+  long_description=r.read()
 URL="https://github.com/KoichiYasuoka/UD-Chinese"
 
 setuptools.setup(
