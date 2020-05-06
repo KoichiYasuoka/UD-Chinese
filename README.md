@@ -2,7 +2,7 @@
 
 # UD-Chinese
 
-Tokenizer, POS-Tagger, and Dependency-Parser for Chinese (简体/繁體/文言文), working on [Universal Dependencies](https://universaldependencies.org/format.html).
+Tokenizer, POS-Tagger, and Dependency-Parser for Chinese ([简体](https://github.com/universaldependencies/UD_Chinese-GSDSimp)/[繁體](https://github.com/universaldependencies/UD_Chinese-GSD)/[文言文](https://github.com/universaldependencies/UD_Classical_Chinese-Kyoto)), working on [Universal Dependencies](https://universaldependencies.org/format.html).
 
 ## Basic usage
 
