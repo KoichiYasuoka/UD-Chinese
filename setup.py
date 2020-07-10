@@ -8,7 +8,7 @@ URL="https://github.com/KoichiYasuoka/UD-Chinese"
 
 setuptools.setup(
   name="udchinese",
-  version="0.3.0",
+  version="0.3.1",
   description="Tokenizer POS-tagger and Dependency-parser for Chinese (简体/繁體/文言文)",
   long_description=long_description,
   long_description_content_type="text/markdown",
@@ -18,7 +18,7 @@ setuptools.setup(
   license="MIT",
   keywords="udpipe nlp",
   packages=setuptools.find_packages(),
-  install_requires=["udkanbun>=2.0.6"],
+  install_requires=["udkanbun>=2.2.8"],
   python_requires=">=3.6",
   package_data={
     "udchinese":["./ud-chinese.udpipe"],
