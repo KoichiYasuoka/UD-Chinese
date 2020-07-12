@@ -21,7 +21,7 @@ Tokenizer, POS-Tagger, and Dependency-Parser for Chinese ([简体](https://githu
 4	本	本	NOUN	n,名詞,描写,形質	_	5	clf	_	SpaceAfter=No
 5	书	書	NOUN	n,名詞,主体,書物	_	6	obl:patient	_	SpaceAfter=No
 6	看	看	VERB	v,動詞,行為,動作	_	0	root	_	SpaceAfter=No
-7	完	完	VERB	v,動詞,変化,性質	_	6	mark	_	SpaceAfter=No
+7	完	完	VERB	v,動詞,変化,性質	_	6	flat:vv	_	SpaceAfter=No
 8	了	了	PART	UH	_	6	discourse	_	SpaceAfter=No
 9	。	。	PUNCT	s,記号,句点,*	_	6	punct	_	SpacesAfter=\n
 
@@ -54,7 +54,7 @@ If you have already installed [spaCy](https://pypi.org/project/spacy/) 2.1.0 or 
 4	本	本	NOUN	n,名詞,描写,形質	_	5	clf	_	SpaceAfter=No
 5	书	書	NOUN	n,名詞,主体,書物	_	6	obl:patient	_	SpaceAfter=No
 6	看	看	VERB	v,動詞,行為,動作	_	0	root	_	SpaceAfter=No
-7	完	完	VERB	v,動詞,変化,性質	_	6	mark	_	SpaceAfter=No
+7	完	完	VERB	v,動詞,変化,性質	_	6	flat:vv	_	SpaceAfter=No
 8	了	了	PART	UH	_	6	discourse	_	SpaceAfter=No
 9	。	。	PUNCT	s,記号,句点,*	_	6	punct	_	_
 
