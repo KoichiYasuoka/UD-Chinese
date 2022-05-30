@@ -1,3 +1,1 @@
-from .udchinese import load
-
-__all__=[ load ]
+from .udchinese import load,PACKAGE_DIR

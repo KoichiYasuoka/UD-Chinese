@@ -1,11 +1,8 @@
 #! /usr/bin/python3 -i
 # coding=utf-8
 
-import numpy
 from spacy.language import Language
-from spacy.symbols import LANG,NORM,LEMMA,POS,TAG,DEP,HEAD
-from spacy.tokens import Doc,Span,Token
-from spacy.util import get_lang_class
+from spacy.symbols import LANG
 from udkanbun.spacy import to_conllu,UDKanbunTokenizer
 
 class UDChineseLanguage(Language):
