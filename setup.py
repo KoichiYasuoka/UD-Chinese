@@ -8,7 +8,7 @@ URL="https://github.com/KoichiYasuoka/UD-Chinese"
 
 setuptools.setup(
   name="udchinese",
-  version="0.6.0",
+  version="0.6.1",
   description="Tokenizer POS-tagger and Dependency-parser for Chinese (简体/繁體/文言文)",
   long_description=long_description,
   long_description_content_type="text/markdown",
